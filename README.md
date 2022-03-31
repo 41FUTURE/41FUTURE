@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @41FUTURE
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript Html/css
-
+- 👀 Currently working to get my ETH cert :))
 - 📫 ...
 
 <!---
